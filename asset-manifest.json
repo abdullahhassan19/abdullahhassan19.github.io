@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e4c87cd8.css",
-    "main.js": "/static/js/main.ba9ad9ad.js",
+    "main.js": "/static/js/main.f22c3fcb.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Abdullah_Mohammadi_Resume.pdf": "/static/media/Abdullah_Mohammadi_Resume.13467f4d549f61ea5fe3.pdf",
     "static/media/mypic.png": "/static/media/mypic.0979bb6596292505bcb6.png",
     "index.html": "/index.html",
     "main.e4c87cd8.css.map": "/static/css/main.e4c87cd8.css.map",
-    "main.ba9ad9ad.js.map": "/static/js/main.ba9ad9ad.js.map",
+    "main.f22c3fcb.js.map": "/static/js/main.f22c3fcb.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4c87cd8.css",
-    "static/js/main.ba9ad9ad.js"
+    "static/js/main.f22c3fcb.js"
   ]
 }
